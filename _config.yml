@@ -11,9 +11,9 @@ title                    : "Sen Han"
 title_separator          : "-"
 name                     : &name "Sen Han"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://senyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baeurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/senyan/sen.han"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
