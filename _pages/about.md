@@ -10,7 +10,7 @@ redirect_from:
 
 **About me:** I'm an engineering manager at [Bloomberg Industry
 Group](https://www.bloombergindustry.com/) [Bloomberg
-Government](https://www.bgov.edu/), and I'm passionated in natural language
+Government](https://www.bgov.com/), and I'm passionated in natural language
 processing ,machine learning, optimization methods and systems. Before
 Bloomberg, I was a graduate student in Computer Science at [St. Cloud State
 University](https://www.stcloudstate.edu/), where I was advised by [Byrant
