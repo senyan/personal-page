@@ -18,3 +18,12 @@ Julstrom](https://web.stcloudstate.edu/bajulstrom/)
 
 Here's my [CV](http://senyan.github.io/sen.han/files/Resume.pdf).
 
+
+## Publications
+
+GECCO '12: Proceedings of the 14th annual conference companion on Genetic and
+evolutionary computationJuly 2012 Pages
+599–602[https://doi.org/10.1145/2330784.2330882](https://dl.acm.org/doi/10.1145/2330784.2330882)
+
+
+
