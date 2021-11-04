@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 **About me:** I'm an engineering manager at [Bloomberg Industry
-Group](https://www.bloombergindustry.com/) [bloomberg
-government](https://www.bgov.edu/), and I'm passionated in natural language
+Group](https://www.bloombergindustry.com/) [Bloomberg
+Government](https://www.bgov.edu/), and I'm passionated in natural language
 processing ,machine learning, optimization methods and systems. Before
 Bloomberg, I was a graduate student in Computer Science at [St. Cloud State
 University](https://www.stcloudstate.edu/), where I was advised by [Byrant
 Julstrom](https://web.stcloudstate.edu/bajulstrom/)
 
-Here's my [CV](http://senyan.github.io/files/Resume.pdf).
+Here's my [CV](http://senyan.github.io/sen.han/files/Resume.pdf).
 
